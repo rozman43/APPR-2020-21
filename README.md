@@ -8,6 +8,7 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2020/21
 ## Tematika
 
 Analiziral bom vrednosti igralcev in klubov.
+Ter za golmane analiziral njihovo vrednost glede na ucinkovitost. Torej glede na stevilo obramb in stevilo minut.
 
 Podatki bodo vkljucevali:
 *trzna vrednost igralca za vsak mesec
@@ -17,7 +18,7 @@ Podatki bodo vkljucevali:
 
 Viri:
 *https://www.transfermarkt.co.uk
-*https://www.footballdatabase.eu/en/
+*https://www.premierleague.com/stats/top/players/goals?se=363
 
 Cilj:
 *narisati grafe vrednosti igralcev skozi cas
