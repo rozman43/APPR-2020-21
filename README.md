@@ -7,19 +7,21 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2020/21
 
 ## Tematika
 
-Analiziral bom vrednosti igralcev in klubov. Kjer bo klub predstavljen, kot indeks vrednosti igralcev.
+Analiziral bom vrednosti igralcev in klubov.
 
 Podatki bodo vkljucevali:
-*trzna vrednost igralca za vsak mesec (obdobje oktober 2020 - )
+*trzna vrednost igralca za vsak mesec
 *mesto kluba glede na uvtrstitev v ligi in mesto po vrednosti igralcev
 *drzavljanstvo igralca
 *starost
 
 Viri:
 *https://www.transfermarkt.co.uk
+*https://www.footballdatabase.eu/en/
 
-Izbrali si boste temo, s katero se bo vaš projekt ukvarjal.
-Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
+Cilj:
+*narisati grafe vrednosti igralcev skozi cas
+*primerjati vrednosti igralcev z razlicnimi parametri
 
 ## Program
 
