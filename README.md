@@ -11,18 +11,18 @@ Analiziral bom vrednosti igralcev in klubov.
 Ter za golmane analiziral njihovo vrednost glede na ucinkovitost. Torej glede na stevilo obramb in stevilo minut.
 
 Podatki bodo vkljucevali:
-*trzna vrednost igralca za vsak mesec
-*mesto kluba glede na uvtrstitev v ligi in mesto po vrednosti igralcev
-*drzavljanstvo igralca
-*starost
+* trzna vrednost igralca za vsak mesec
+* mesto kluba glede na uvtrstitev v ligi in mesto po vrednosti igralcev
+* drzavljanstvo igralca
+* starost
 
 Viri:
-*https://www.transfermarkt.co.uk
-*https://www.premierleague.com/stats/top/players/goals?se=363
+* https://www.transfermarkt.co.uk
+* https://www.premierleague.com/stats/top/players/goals?se=363
 
 Cilj:
-*narisati grafe vrednosti igralcev skozi cas
-*primerjati vrednosti igralcev z razlicnimi parametri
+* narisati grafe vrednosti igralcev skozi cas
+* primerjati vrednosti igralcev z razlicnimi parametri
 
 ## Program
 
